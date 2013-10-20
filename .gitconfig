@@ -1,0 +1,10 @@
+[user]
+  name = TakuyaHitomi
+  email = takuya.0101@gmail.com
+[color]
+  ui = true
+[alias]
+  co = checkout
+  st = status
+  br = branch
+  ci = commit 
