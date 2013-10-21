@@ -8,3 +8,5 @@
   st = status
   br = branch
   ci = commit 
+  tn = tag -n
+  ld = log --decorate
