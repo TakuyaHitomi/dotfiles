@@ -3,6 +3,8 @@
   email = takuya.0101@gmail.com
 [color]
   ui = true
+[core]
+  editor = vim -c \"set fenc=utf-8\"
 [alias]
   co = checkout
   st = status
