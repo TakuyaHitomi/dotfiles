@@ -7,6 +7,9 @@
   co = checkout
   st = status
   br = branch
-  ci = commit 
+  ci = commit
   tn = tag -n
   ld = log --decorate
+  re = reset
+  sr = reset --soft
+  hr = reset --hard
