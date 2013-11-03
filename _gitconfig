@@ -15,3 +15,5 @@
   re = reset
   sr = reset --soft
   hr = reset --hard
+[hub]
+protocol = https
