@@ -16,4 +16,6 @@
   sr = reset --soft
   hr = reset --hard
 [hub]
-protocol = https
+  protocol = https
+[push]
+  default = simple
