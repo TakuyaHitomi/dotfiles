@@ -17,5 +17,3 @@
   hr = reset --hard
 [hub]
   protocol = https
-[push]
-  default = simple
