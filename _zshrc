@@ -45,3 +45,6 @@ alias ls='ls -aF'
 alias vi='vim'
 export CLICOLOR=1
 export LSCOLORS=DxGxcxdxCxegedabagacad
+
+eval "$(rbenv init -)"
+eval "$(direnv hook zsh)"
