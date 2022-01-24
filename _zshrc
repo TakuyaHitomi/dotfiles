@@ -49,3 +49,4 @@ export LSCOLORS=DxGxcxdxCxegedabagacad
 
 eval "$(rbenv init -)"
 eval "$(direnv hook zsh)"
+export PATH=$HOME/.nodebrew/current/bin:$PATH
